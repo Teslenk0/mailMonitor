@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>  
+<host>localhost:110</host>
+<port>110</port>
+<!--EN SEGUNDOS-->
+<wait>600</wait>
+    <user>
+        <email>dracula</email>
+        <password>dracula</password>
+    </user>
+	<user>
+        <email>lobizon</email>
+        <password>lobizon</password>
+    </user>    
+</data>  
